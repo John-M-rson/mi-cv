@@ -1,0 +1,143 @@
+===== CONTENIDO =====
+
+<details>
+ <summary><strong>1.  INTRODUCCION</strong></summary>
+  * [[objetivo general|Objetivo General]]
+  * [[objetivos específicos|Objetivos Específicos]]
+  * [[alcance y público objetivo|Alcance y público objetivo]]
+  * [[responsables de actualización y mantenimiento|Responsables de actualización y mantenimiento]]
+</details>
+
+
+<details>
+ <summary><strong>2. DEFINICIONES Y CONCEPTOS CLAVE</strong></summary>
+  * [[términos técnicos y su significado|Términos Técnicos y su Significado]]
+  * [[normativas y estándares aplicables|Normativas y Estándares Aplicables]]
+</details>
+
+
+<details>
+<summary><strong>3.  ESTRUCTURA DEL MANUAL </strong></summary>
+
+<ul><details>
+<summary><strong>3.1. Procedimientos Generales </strong></summary>
+<ul><details>
+<summary><strong>Gestion de Servidores</strong></summary>
+  * [[Inventario]]
+  * [[Ubicacion]]
+  * <details>
+<summary><strong>Configuraciones</strong></summary>
+  * [[Ubuntu]]
+  * [[Windows]]
+  * [[Backups]]
+</details>
+</details></ul>
+<ul><details>
+<summary><strong>Administracion de redes</strong></summary>
+  * [[Topologia]]
+  * [[Vlans]]
+  * [[Firewall]]
+</details></ul>
+<ul><details>
+<summary><strong>Servicios web</strong></summary>
+  * <details>
+<summary><strong>Zimbra</strong></summary>
+  * [[Instalacion]]
+  * [[Configuracion]]
+  * [[Problemas Comunes]]
+</details>
+  * [[Dokuwiki]]
+  * [[Wazuh]]
+  * [[Z-push]]
+  * [[OCS]]
+</details></ul>
+<ul><details>
+<summary><strong>Seguridad Informatica</strong></summary>
+<ul><details>
+<summary><strong>Auditorias</strong></summary>
+  * [[Checklist]]
+  * [[Hallazgos]]
+  * [[Reportes]]
+</details></ul>
+<ul><details>
+<summary><strong>Configuraciones</strong></summary>
+  * [[fail2ban]]
+  * [[Hardening_ubuntu]]
+</details></ul>
+</details></ul>
+<ul><details>
+<summary><strong>[[Mantenimiento y Soporte]]</strong></summary>
+</details></ul>
+</details></ul>
+
+<ul><details>
+<summary><strong>3.2. Procedimientos Especificos </strong></summary>
+<ul><details>
+<summary><strong>[[Alta de Usuario]]</strong></summary>
+</details></ul>
+<ul><details>
+<summary><strong>Instalacion y Configuracion de Software/Hardware</strong></summary>
+<ul>[[Instalacion UniVPN]]</ul>
+<ul>[[Reinstalar Sisema Operativo]]</ul>
+</details></ul>
+<ul><details>
+<summary><strong>Gestion de Backups y Recuperacion de datos/Hardware</strong></summary>
+<ul>[[Restaurar Backup]]</ul>
+</details></ul>
+<ul><details>
+<summary><strong>[[Nonitorizacion y Diagnostico de Sistemas]]</strong></summary>
+</details></ul>
+<ul><details>
+<summary><strong>[[Gestion de Accesos y Permisos]]</strong></summary>
+</details></ul>
+</details></ul>
+<ul><details>
+
+<summary><strong>3.3. Proyectos </strong></summary>
+<ul><details>
+<summary><strong>Migraciones/Hardware</strong></summary>
+  * [[Servidor de Correo 2025]]
+  * [[Actualizaciones Idap]]
+</details></ul>
+<ul><details>
+<summary><strong>Nuevos Sistemas</strong></summary>
+  * [[Inplementacio NAS]]
+  * [[Firewall PFSENSE]]
+</details></ul>
+</details></ul>
+</details>
+
+
+<details>
+ <summary><strong>4.  ROLES Y RESPONSABILIDADES</strong></summary>
+  * [[Descripcion de Funciones Clave en Infraestructura IT]]
+  * [[Responsabilidades de Cada Equipo o Personas]]
+</details>
+
+
+<details>
+ <summary><strong>5.  FLUJOGRAMAS Y DIAGRAMAS</strong></summary>
+  * [[Mapas de procesos para cada procedimiento]]
+  * [[Diagramas de arquitectura y dependencias]]
+</details>
+
+
+<details>
+ <summary><strong>6.  HERRAMIENTAS Y RECURSOS</strong></summary>
+  * [[Software utilizadol]]
+  * [[Documentos de referencia y enlaces útiles]]
+</details>
+
+
+<details>
+ <summary><strong>7.  REGISTRO DE CAMBIOS</strong></summary>
+  * [[Fecha y descripción de actualizaciones]]
+  * [[Responsable de modificaciones]]
+</details>
+
+
+<details>
+ <summary><strong>8.  CONTACTO Y SOPORTE</strong></summary>
+  * [[Información de contacto para consultas]]
+  * [[Procedimiento para reportar incidencias]]
+</details>
